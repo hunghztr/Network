@@ -1,0 +1,77 @@
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\Client.exe.config
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\Client.exe
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\Client.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.exe
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.Form1.resources
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.LogInForm.resources
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\AccountList.dll
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\AccountList.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.csproj.Up2Date
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.RegisterForm.resources
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.FileForm.resources
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\Server.exe
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\Server.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\bin\Debug\Server.exe.config
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Client\obj\Debug\Client.CreateGroupForm.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\Client.exe.config
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\Client.exe
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\Client.pdb
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\AccountList.dll
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\Server.exe
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\AccountList.pdb
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\Server.pdb
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\bin\Debug\Server.exe.config
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.CreateGroupForm.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.Form1.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.LogInForm.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.RegisterForm.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.exe
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Client\obj\Debug\Client.pdb
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Client.exe.config
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Client.exe
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Client.pdb
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\AccountList.dll
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Server.exe
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\AccountList.pdb
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Server.pdb
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Server.exe.config
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.CreateGroupForm.resources
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.Form1.resources
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.LogInForm.resources
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.RegisterForm.resources
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.exe
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Client.exe
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\AccountList.dll
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Server.exe
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\AccountList.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Server.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\bin\Debug\Server.exe.config
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.CreateGroupForm.resources
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.Form1.resources
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.LogInForm.resources
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.RegisterForm.resources
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.exe
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Client\obj\Debug\Client.pdb

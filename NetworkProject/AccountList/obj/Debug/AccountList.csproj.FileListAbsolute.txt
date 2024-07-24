@@ -1,0 +1,12 @@
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\AccountList\bin\Debug\AccountList.dll
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\AccountList\bin\Debug\AccountList.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\AccountList\obj\Debug\AccountList.csproj.AssemblyReference.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\AccountList\obj\Debug\AccountList.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\AccountList\obj\Debug\AccountList.dll
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\AccountList\obj\Debug\AccountList.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\AccountList\bin\Debug\AccountList.dll
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\AccountList\bin\Debug\AccountList.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\AccountList\obj\Debug\AccountList.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\AccountList\obj\Debug\AccountList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\AccountList\obj\Debug\AccountList.dll
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\AccountList\obj\Debug\AccountList.pdb

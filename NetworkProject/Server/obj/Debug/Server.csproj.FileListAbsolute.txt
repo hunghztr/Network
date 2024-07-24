@@ -1,0 +1,52 @@
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\bin\Debug\Server.exe.config
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\bin\Debug\Server.exe
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\bin\Debug\Server.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.exe
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.Form1.resources
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\bin\Debug\AccountList.dll
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\bin\Debug\AccountList.pdb
+D:\Lập Trình\Lập Trình Mạng\NetworkProject\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\bin\Debug\Server.exe.config
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\bin\Debug\Server.exe
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\bin\Debug\Server.pdb
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\bin\Debug\AccountList.dll
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\bin\Debug\AccountList.pdb
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.Form1.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.exe
+C:\Users\HIHI\Desktop\WIFI\NetworkProject\Server\obj\Debug\Server.pdb
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\Server.exe.config
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\Server.exe
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\Server.pdb
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\AccountList.dll
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\AccountList.pdb
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.Form1.resources
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.exe
+C:\Users\Quang\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\Server.exe
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\AccountList.dll
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\bin\Debug\AccountList.pdb
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.Form1.resources
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.exe
+C:\Users\Admin\Downloads\NetworkProject++\NetworkProject\Server\obj\Debug\Server.pdb
